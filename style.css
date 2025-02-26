@@ -1,0 +1,21 @@
+@font-face {
+    font-family: punk;
+    src: url(punk_typewriter/Punk\ Typewriter.otf);
+}
+
+.judul {
+    font-family: punk;
+    font-size: 50px;
+    
+}
+
+
+
+
+
+body {
+  background-image:  linear-gradient(rgba(48, 45, 45, 0.5), rgba(85, 79, 79, 0.5)), ; 
+  height: auto; 
+  background-repeat: no-repeat;
+  background-size: cover;
+}
